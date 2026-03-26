@@ -9,9 +9,13 @@ Sou Desenvolvedor de Software!
 ## Stacks proficientes
 
 ![Java](https://img.shields.io/badge/-Java-red)
-![Python](https://img.shields.io/badge/-Python-blue)
+[Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=springboot&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-purple)
+![Python](https://img.shields.io/badge/-Python-blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-orange)
