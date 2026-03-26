@@ -9,7 +9,7 @@ Sou Desenvolvedor de Software!
 ## Stacks proficientes
 
 ![Java](https://img.shields.io/badge/-Java-red)
-[Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=springboot&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-purple)
 ![Python](https://img.shields.io/badge/-Python-blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
